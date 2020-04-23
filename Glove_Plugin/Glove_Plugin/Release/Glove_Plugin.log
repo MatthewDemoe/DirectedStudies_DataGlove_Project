@@ -1,0 +1,7 @@
+﻿  Glove_Com_Pkg.cpp
+     Creating library C:\Users\mattd\Documents\Glove\Glove_Plugin\Release\Glove_Plugin.lib and object C:\Users\mattd\Documents\Glove\Glove_Plugin\Release\Glove_Plugin.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Glove_Plugin.vcxproj -> C:\Users\mattd\Documents\Glove\Glove_Plugin\Release\Glove_Plugin.dll

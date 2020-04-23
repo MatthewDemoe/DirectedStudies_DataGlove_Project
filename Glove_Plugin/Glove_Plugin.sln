@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Glove_Plugin", "Glove_Plugin\Glove_Plugin.vcxproj", "{EEA32B64-B27F-4F77-A13B-268F211EC3E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Debug|x64.ActiveCfg = Debug|x64
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Debug|x64.Build.0 = Debug|x64
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Debug|x86.Build.0 = Debug|Win32
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Release|x64.ActiveCfg = Release|x64
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Release|x64.Build.0 = Release|x64
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Release|x86.ActiveCfg = Release|Win32
+		{EEA32B64-B27F-4F77-A13B-268F211EC3E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141ED0DC-C1EA-46FA-8C94-6D6B4D121DFB}
+	EndGlobalSection
+EndGlobal
