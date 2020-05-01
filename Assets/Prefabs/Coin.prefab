@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 4876598601253193654}
   - component: {fileID: 1193913481663281999}
   - component: {fileID: 8496180985962133611}
-  - component: {fileID: 1666286532111301425}
   - component: {fileID: 9141518514387478213}
   - component: {fileID: 775284681792056305}
+  - component: {fileID: 6622924754262573784}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Untagged
@@ -104,18 +104,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1666286532111301425
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 625287799482142611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7adecda0b95bd194782bbf7819790907, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!54 &9141518514387478213
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -146,6 +134,18 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -951608786083511892, guid: 91549b016844f7e4285cf315a4986cdd, type: 3}
+--- !u!114 &6622924754262573784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 625287799482142611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbcd3178f77aee341b024c81c00314a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3365891260068355704
 GameObject:
   m_ObjectHideFlags: 0
